@@ -33,3 +33,8 @@
 * The [Akka library] (https://akka.io/) provides an Actors API, which was originally based on the actors concurrency model built into Erlang
 
 * The [Play Framework] (https://www.playframework.com/) is a lightweight, stateless, web development framework that’s built with Scala and Akka. (In addition to Play there are several other popular web frameworks.)
+
+
+## better articles
+
+* [How to disassemble and decompile Scala code] (https://alvinalexander.com/scala/how-to-disassemble-decompile-scala-source-code-javap-scalac-jad)
