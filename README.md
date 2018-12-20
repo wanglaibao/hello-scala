@@ -47,8 +47,26 @@
 
 * use the explicit form when we need to be clear
 
+## A FEW BUILT-IN TYPES
+
+* if we don’t explicitly specify a type, the number 1 will default to an Int, so if we want one of the other data types — Byte, Long, or Short — we need to explicitly declare those types;Numbers with a decimal (like 2.0) will default to a Double, so if we want a Float we need to declare a Float.
+
+* because Int and Double are the default numeric types, we typically create them without explicitly declaring the data type
+
+## BIGINT AND BIGDECIMAL
+
+* For large numbers Scala also includes the types BigInt and BigDecimal:
+
+* eg: val b = BigInt(1234567890)
+
+* eg: val b = BigDecimal(121231233456.123789)
+
+
+
 ## BETTER ARTICLES
 
 * [How to disassemble and decompile Scala code] (https://alvinalexander.com/scala/how-to-disassemble-decompile-scala-source-code-javap-scalac-jad)
 
 * [Getting started with the Scala REPL] (https://alvinalexander.com/scala/getting-started-scala-repl-command-line-shell-options)
+
+* [How to handle very large numbers in Scala (BigInt, BigDecimal)] (https://alvinalexander.com/scala/how-handle-very-large-numbers-scala-bigint-bigdecimal)
