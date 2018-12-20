@@ -75,6 +75,11 @@
     
     val name:String = "金戈"
 
+## STRINGS TEMPLATE AND MULTILINE STRINGS
+
+* The first feature is that Scala has a nice, Ruby-like way to merge multiple strings, that feature is known as string interpolation.
+
+* A second great feature of Scala strings is that you can create multiline strings by including the string inside three parentheses.
 
 
 ## BETTER ARTICLES
