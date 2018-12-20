@@ -35,6 +35,10 @@
 * The [Play Framework] (https://www.playframework.com/) is a lightweight, stateless, web development framework that’s built with Scala and Akka. (In addition to Play there are several other popular web frameworks.)
 
 
+## The difference between val and var
+
+* The difference between val and var is that val makes a variable immutable — like final in Java — and var makes a variable mutable. Because val fields can’t vary, some people refer to them as values rather than variables.
+
 ## better articles
 
 * [How to disassemble and decompile Scala code] (https://alvinalexander.com/scala/how-to-disassemble-decompile-scala-source-code-javap-scalac-jad)
