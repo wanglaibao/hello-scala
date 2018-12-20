@@ -61,6 +61,20 @@
 
 * eg: val b = BigDecimal(121231233456.123789)
 
+## CHAR AND STRING 
+
+* Scala also has Char and String data types, which we always declare with the implicit form
+    
+    val c = 'A'
+    
+    val name = "金戈"
+    
+* We can use the explicit form, if we prefer
+
+    val c:Char = 'A'
+    
+    val name:String = "金戈"
+
 
 
 ## BETTER ARTICLES
