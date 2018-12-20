@@ -38,3 +38,5 @@
 ## better articles
 
 * [How to disassemble and decompile Scala code] (https://alvinalexander.com/scala/how-to-disassemble-decompile-scala-source-code-javap-scalac-jad)
+
+* [Getting started with the Scala REPL] (https://alvinalexander.com/scala/getting-started-scala-repl-command-line-shell-options)
