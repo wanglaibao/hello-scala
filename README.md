@@ -1,7 +1,7 @@
 # HELLO-SCALA
 
 ##  A FEW IMPORTANT THINGS TO KNOW ABOUT SCALA
-* It’s a modern programming language created by Martin Odersky (the father of javac), and influenced by Java, Ruby, Smalltalk, ML, Haskell, Erlang, and others.
+* It’s a modern jvm platform programming language created by Martin Odersky (the father of javac), and influenced by Java, Ruby, Smalltalk, ML, Haskell, Erlang, and others.
 
 * It's a high level language
 
