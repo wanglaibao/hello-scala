@@ -26,4 +26,10 @@
 
 * Scala also works extremely well with the thousands of Java libraries that have been developed over the years.
 
-* The [Akka library] (https://akka.io/) provides an Actors API, which was originally based on the actors concurrency model built into Erlang.
+* A great thing about Scala is that we can be productive with it soon, but it’s also a deep language, so as we go along we’ll keep learning, and finding newer, better ways to write code. It’s said that Scala will change the way we think about programming (and that’s a good thing).
+
+* Of all of Scala’s benefits, what we like best is that it lets we write concise, readable code. The time a programmer spends reading code compared to the time spent writing code is said to be at least a 10:1 ratio, so writing code that’s concise and readable is a big deal. Because Scala has these attributes, programmers say that it’s expressive.
+
+* The [Akka library] (https://akka.io/) provides an Actors API, which was originally based on the actors concurrency model built into Erlang
+
+* The [Play Framework] (https://www.playframework.com/) is a lightweight, stateless, web development framework that’s built with Scala and Akka. (In addition to Play there are several other popular web frameworks.)
