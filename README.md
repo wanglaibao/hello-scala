@@ -43,9 +43,9 @@
 
 * In most cases our code is easier to read when we leave the type off, so this implicit form is preferred
 
-* the explicit form feels verbose
+* The explicit form feels verbose
 
-* use the explicit form when we need to be clear
+* Use the explicit form when we need to be clear
 
 ## A FEW BUILT-IN TYPES
 
@@ -55,7 +55,7 @@
 
 ## BIGINT AND BIGDECIMAL
 
-* For large numbers Scala also includes the types BigInt and BigDecimal:
+* for large numbers Scala also includes the types BigInt and BigDecimal:
 
 * eg: val b = BigInt(1234567890)
 
