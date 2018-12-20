@@ -13,4 +13,9 @@ object StringsApp extends App{
   println()
   println(name1)
 
+  val speech = """Four score and
+                 |seven years ago
+                 |our fathers ...""".stripMargin
+
+  println(speech)
 }
