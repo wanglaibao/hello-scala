@@ -1,5 +1,9 @@
 # HELLO-SCALA
 
+## A BETTER NETWORK RESOURCE TO STEP BY STEP TO SCALA LEARNING 
+
+* http://hello-scala.com
+
 ##  A FEW IMPORTANT THINGS TO KNOW ABOUT SCALA
 * It’s a modern jvm platform programming language created by Martin Odersky (the father of javac), and influenced by Java, Ruby, Smalltalk, ML, Haskell, Erlang, and others.
 
