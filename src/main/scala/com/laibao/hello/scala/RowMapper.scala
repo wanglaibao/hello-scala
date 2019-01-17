@@ -4,6 +4,6 @@ import java.sql.{ResultSet, SQLException}
 
 trait RowMapper {
 
-  def mapRow(rs:ResultSet, rowNum:Int):AnyRef throws SQLException;
+  def mapRow(rs:ResultSet, rowNum:Int):AnyRef
 
 }

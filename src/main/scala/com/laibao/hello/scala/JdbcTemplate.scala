@@ -10,5 +10,5 @@ trait JdbcTemplate {
   def query(psc: Connection => PreparedStatement, rowMapper: (ResultSet, Int) => AnyRef): List[AnyRef]
 
 
-  def query[ResultItem](psc: Connection => PreparedStatement, rowMapper: (ResultSet, Int) => ResultItem): List[ResultItem]
+  def queryWithFunctionalWay[ResultItem](psc: Connection => PreparedStatement, rowMapper: (ResultSet, Int) => ResultItem): List[ResultItem]
 }
