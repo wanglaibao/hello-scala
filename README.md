@@ -89,3 +89,21 @@
 * [Getting started with the Scala REPL] (https://alvinalexander.com/scala/getting-started-scala-repl-command-line-shell-options)
 
 * [How to handle very large numbers in Scala (BigInt, BigDecimal)] (https://alvinalexander.com/scala/how-handle-very-large-numbers-scala-bigint-bigdecimal)
+
+* [Reakt Reactive Java] (http://advantageous.github.io/reakt/)
+* [EasyKotlin/reakt] (https://github.com/EasyKotlin/reakt)
+* [andrewoma/reakt] (https://github.com/andrewoma/reakt)
+* [并发编程 Promise, Future 和 Callback] (http://ifeve.com/promise-future-callback/)
+* [Java8新的异步编程方式 CompletableFuture] (https://www.jianshu.com/p/dff9063e1ab6)
+* [jdeferred/jdeferred] (https://github.com/jdeferred/jdeferred)
+* [JDeferred] (http://jdeferred.org/)
+* [Java的Deferred/Promise类库：JDeferred] (https://www.open-open.com/lib/view/open1384266764383.html)
+* [Java 8 新特性：Java 类库的新特性之 Stream类] (https://blog.csdn.net/sun_promise/article/details/51480257)
+* [Monadic futures in Java 8: How to organize your data flow and avoid callback hell] (https://jrebel.com/rebellabs/monadic-futures-in-java8/)
+* [Marius Herring] (https://github.com/mariushe)
+* [Java 8: Writing asynchronous code with CompletableFuture] (https://www.deadcoderising.com/java8-writing-asynchronous-code-with-completablefuture/)
+* [Programming Promises in Java 8] (https://coderprog.com/programming-promises-java-8/)
+* [Java 8 Functional Interfaces] (https://www.journaldev.com/2763/java-8-functional-interfaces)
+* [Futures and Promises] (http://dist-prog-book.com/chapter/2/futures.html)
+* [shelajev/promises] (https://github.com/shelajev/promises)
+
