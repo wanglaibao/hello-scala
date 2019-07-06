@@ -112,3 +112,4 @@
 * [Futures and Promises] (http://dist-prog-book.com/chapter/2/futures.html)
 * [shelajev/promises] (https://github.com/shelajev/promises)
 
+* [人必自侮而后人侮之]
