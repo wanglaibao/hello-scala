@@ -1,5 +1,10 @@
 # HELLO-SCALA
 
+``
+    函数式编程提倡不可变性,高阶函数和函数组合
+`
+
+
 ## A BETTER NETWORK RESOURCE TO STEP BY STEP TO SCALA LEARNING 
 
 * http://hello-scala.com
