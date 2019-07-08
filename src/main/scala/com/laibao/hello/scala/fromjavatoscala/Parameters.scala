@@ -14,4 +14,8 @@ object Parameters extends App{
 
     val numbers = Array(2, 5, 3, 7, 1, 6)
     function(numbers: _*)
+
+    println(max(numbers: _*))
+
+    println(min(numbers:_*))
 }
