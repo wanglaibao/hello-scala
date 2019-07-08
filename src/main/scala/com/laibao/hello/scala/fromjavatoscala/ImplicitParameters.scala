@@ -29,6 +29,18 @@ object ImplicitParameters {
   def main(args: Array[String]): Unit = {
     atOffice()
     atJoesHome()
+
+    val discount = 10
+
+    var price = 100
+
+    val totalPrice = s"The amount after discount is $$${price * (1 - discount / 100.0)}"
+
+    println(totalPrice)
+
+    price = 50
+
+    println(totalPrice)
   }
 
 
