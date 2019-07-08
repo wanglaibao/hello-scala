@@ -6,7 +6,7 @@ object MultipleAssignment2 extends App{
     ("Venkat", "Subramaniam", "venkats@agiledeveloper.com")
   }
 
-  val (firstName, lastName) = getPersonInfo(1)
+  //val (firstName, lastName) = getPersonInfo(1)
 
   /**
     * 那么 Scala 将会报错，如下所示：
