@@ -8,5 +8,9 @@ object DefaultValues {
     mail("Houston office", "Priority")
     mail("Boston office")
     mail()
+
+
+    mail(mailClass = "Priority", destination = "Bahamas office")
+    mail(mailClass = "Priority")
   }
 }
